@@ -1,0 +1,11 @@
+<application>
+  <component name="MaterialThemeConfig">
+    <option name="isWizardShown" value="true" />
+    <option name="pristineConfig" value="false" />
+    <option name="highlightThickness" value="1" />
+    <option name="tabsHeight" value="18" />
+    <option name="accentColor" value="c7ffec" />
+    <option name="userId" value="-3028d247:16e2667972e:-8000" />
+    <option name="version" value="4.5.2" />
+  </component>
+</application>
